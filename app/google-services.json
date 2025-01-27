@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192811097571",
+    "project_id": "pokemon-bfe5d",
+    "storage_bucket": "pokemon-bfe5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192811097571:android:14b532d13436feaec2d4d6",
+        "android_client_info": {
+          "package_name": "ramirez.inma.apppokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192811097571-2g9o46glcv9b22gg8aovnpk2vr7bl8e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ramirez.inma.apppokemon",
+            "certificate_hash": "875cdfce02ca7e6b4c79e3747e2d11a09adb9ce8"
+          }
+        },
+        {
+          "client_id": "192811097571-ttdgdv1cgotmi1souf6aeh1t2o6ait7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKlJfmAlzDFDlc-oGttgKALguARzWZ-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192811097571-ttdgdv1cgotmi1souf6aeh1t2o6ait7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

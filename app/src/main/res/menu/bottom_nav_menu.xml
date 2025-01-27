@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pokedexFragment"
+        android:title="@string/pok_dex" />
+    <item
+        android:id="@+id/pokemonCapturedFragment"
+        android:title="@string/capturados" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="@string/ajustes" />
+</menu>

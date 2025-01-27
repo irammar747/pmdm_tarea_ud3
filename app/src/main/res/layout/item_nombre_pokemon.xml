@@ -1,0 +1,12 @@
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_nombre_pokemon"
+    android:layout_width="match_parent"
+    android:layout_height="50sp"
+    android:layout_margin="5sp"
+    android:textColor="@color/blue"
+    android:textSize="20sp"
+    android:padding="10sp"
+    android:background="@color/white"
+    android:textStyle="bold"
+    />

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AppPokemon</string>
+    <string name="pokemon_image">imagen del pokemon</string>
+    <string name="peso">"Peso: "</string>
+    <string name="lenguaje_seleccionado">Lenguaje seleccionado</string>
+    <string name="selecciona_el_idioma">Selecciona el idioma de la aplicación</string>
+    <string name="lenguaje_de_la_app">Lenguaje de la Aplicación</string>
+    <string name="eliminar_mis_pokemons">Eliminar mis pokemons</string>
+    <string name="activa_o_desactiva">Activa o desactiva la opción de eliminar Pokémons</string>
+    <string name="acerca_de">Acerca de …</string>
+    <string name="informaci_n_sobre_el_desarrollador">Información sobre el desarrollador y la versión</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+    <string name="cierra_tu_sesi_n_de_autenticaci_n">Cierra tu sesión de autenticación</string>
+    <string name="aplicaci_n_desarrollada_por_inma_versi_n_1_0_0">Aplicación desarrollada por Inma. Versión 1.0.0</string>
+    <string name="sesi_n_cerrada_correctamente">Sesión cerrada correctamente</string>
+    <string name="error_al_cerrar_sesi_n">Error al cerrar sesión</string>
+    <string name="pokemon_ya_capturado">¡Este pokémon ya había sido capturado!</string>
+    <string name="pokemon_error_campro_capt">No se ha podido comprobar si ya estaba capturado</string>
+    <string name="pokemon_capturado">¡Pokémon Capturado!</string>
+    <string name="pokemon_escapo">Error en su pokedex. El pokémon se escapó</string>
+    <string name="error_detalles">Error al obtener los detalles del pokémon</string>
+    <string name="comprobar_cierre_sesion">¿Está seguro de que desea cerrar su sesión?</string>
+    <string name="si">Sí</string>
+    <string name="pokemon_delete">¡Pokémon liberado!</string>
+    <string name="pokemon_no_delete">El pokémon no ha podido ser eliminado</string>
+    <string name="capturados">Capturados</string>
+    <string name="pok_dex" translatable="false">Pokédex</string>
+    <string name="ajustes">Ajustes</string>
+</resources>

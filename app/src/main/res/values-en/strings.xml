@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppPokemon</string>
+    <string name="pokemon_image">pokemon image</string>
+    <string name="peso">"Weight: "</string>
+    <string name="lenguaje_seleccionado">Selected language</string>
+    <string name="selecciona_el_idioma">Select the application language</string>
+    <string name="lenguaje_de_la_app">Application language</string>
+    <string name="eliminar_mis_pokemons">Delete my pokemon</string>
+    <string name="activa_o_desactiva">Enable or disable the option to delete Pokémon</string>
+    <string name="acerca_de">About ...</string>
+    <string name="informaci_n_sobre_el_desarrollador">Developer information and version</string>
+    <string name="cerrar_sesi_n">Log out</string>
+    <string name="cierra_tu_sesi_n_de_autenticaci_n">Sign out of your authentication</string>
+    <string name="aplicaci_n_desarrollada_por_inma_versi_n_1_0_0">Application developed by Inma. Version 1.0.0</string>
+    <string name="sesi_n_cerrada_correctamente">Session successfully logged out</string>
+    <string name="error_al_cerrar_sesi_n">Error logging out</string>
+    <string name="pokemon_ya_capturado">This pokémon had already been captured!</string>
+    <string name="si">Yes</string>
+    <string name="capturados">Captured</string>
+    <string name="ajustes">Setting</string>
+    <string name="pokemon_error_campro_capt">It could not be checked if it was already captured!</string>
+    <string name="pokemon_capturado">Pokémon captured!</string>
+    <string name="pokemon_escapo">Error in your pokedex. The pokemon escaped</string>
+    <string name="error_detalles">Error getting pokemon details</string>
+    <string name="comprobar_cierre_sesion">Are you sure you want to log out?</string>
+    <string name="pokemon_delete">Pokémon released!</string>
+    <string name="pokemon_no_delete">The pokemon could not be removed</string>
+</resources>
