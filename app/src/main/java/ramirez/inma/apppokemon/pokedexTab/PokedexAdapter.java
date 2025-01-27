@@ -2,9 +2,7 @@ package ramirez.inma.apppokemon.pokedexTab;
 
 import android.content.Context;
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 
 import androidx.annotation.NonNull;
 import androidx.core.content.ContextCompat;
@@ -13,7 +11,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 import java.util.List;
 
-import ramirez.inma.apppokemon.MainActivity;
 import ramirez.inma.apppokemon.R;
 import ramirez.inma.apppokemon.modelo.PokemonData;
 import ramirez.inma.apppokemon.databinding.ItemNombrePokemonBinding;

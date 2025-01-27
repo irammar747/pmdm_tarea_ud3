@@ -1,17 +1,11 @@
 package ramirez.inma.apppokemon.capturedTab;
 
-import android.net.Uri;
-import android.view.View;
 
-import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 
-import ramirez.inma.apppokemon.R;
 import ramirez.inma.apppokemon.databinding.ItemCardviewPokemonBinding;
-import ramirez.inma.apppokemon.databinding.ItemNombrePokemonBinding;
-import ramirez.inma.apppokemon.modelo.PokemonData;
 import ramirez.inma.apppokemon.modelo.PokemonDetail;
 
 public class CapturedViewHolder extends RecyclerView.ViewHolder{
