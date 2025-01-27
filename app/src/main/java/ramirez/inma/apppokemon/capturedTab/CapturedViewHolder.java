@@ -24,9 +24,9 @@ public class CapturedViewHolder extends RecyclerView.ViewHolder{
      */
     public void bind(PokemonDetail pokemon){
         binding.name.setText(pokemon.getName());
-        binding.height.setText("Peso: " + String.valueOf(pokemon.getHeight()));
-        binding.weight.setText("Altura: " + String.valueOf(pokemon.getWeight()));
-        binding.index.setText("Índice: " + String.valueOf(pokemon.getIndex()));
+        binding.height.setText("Peso: " + pokemon.getHeight());
+        binding.weight.setText("Altura: " + pokemon.getWeight());
+        binding.index.setText("Índice: " + pokemon.getIndex());
 
         Glide.with(binding.pokemonImage.getContext())
                 .load(pokemon.getFrontShinySprite())  // Imagen en caso de error (opcional)
